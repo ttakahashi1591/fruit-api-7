@@ -1,5 +1,5 @@
 class WelcomeController < ApplicationController
-
-   def index; end
-
+   def index 
+      # @fruits_facade = FruitsFacade.new 
+   end
 end
